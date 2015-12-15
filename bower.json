@@ -1,0 +1,15 @@
+{
+    "name": "student-connect",
+    "version": "1.0",
+    "authors": [
+        "kkrishna.ai@gmail.com"
+    ],
+    "description": "An Online Portal for Students and Faculty",
+    "dependencies": {
+        "angular": null,
+        "angular-messages": null,
+        "lodash": null,
+        "requirejs": null,
+        "spring-security-csrf-token-interceptor": null
+    }
+}
