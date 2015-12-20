@@ -1,15 +1,20 @@
 {
-    "name": "student-connect",
-    "version": "1.0",
-    "authors": [
-        "kkrishna.ai@gmail.com"
-    ],
-    "description": "An Online Portal for Students and Faculty",
-    "dependencies": {
-        "angular": null,
-        "angular-messages": null,
-        "lodash": null,
-        "requirejs": null,
-        "spring-security-csrf-token-interceptor": null
-    }
+  "name": "student-connect",
+  "version": "1.0",
+  "authors": [
+    "kkrishna.ai@gmail.com"
+  ],
+  "description": "An Online Portal for Students and Faculty",
+  "dependencies": {
+    "angular": "1.5.0-rc.0",
+    "angular-messages": null,
+    "lodash": null,
+    "requirejs": null,
+    "spring-security-csrf-token-interceptor": null,
+    "angular-material": "~1.0.0",
+    "bootstrap": "~3.3.6"
+  },
+  "resolutions": {
+    "angular": "1.5.0-rc.0"
+  }
 }
